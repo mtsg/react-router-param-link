@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '0.11'
+- '0.10'
+deploy:
+  provider: npm
+  email: mtsg4code@outlook.jp
+  on:
+    tags: true
+  api_key:
+    secure: um7+g7JibkSi0NXO7e9M6lS1XYrlCvozBjj3CojV3gO4OqV+vVGJbcsRJp6qjLAz6K0E33BmlryHChYucCR4qTwDI1gh4C6Mt9TYBxq2eyaugrDAorpXqtv3GxNP32+71i6nCF5QN+3MAEJSYrrLhhZk01OvkPO1kcOloIZ037JwrF7Wq14eJvwVHVFUdvaVIqUeG7YrG+JUNpK8zxb4Z+ni/Ep+B280GXo1ttmEldsdVOuxRIGS9c9LGmgi0Yo3NTprOOTpd8HUMRn7Q7RgDMbVAWvtQAvYgMsoF9S2n0STdZ3+6QQDB/oZGb9ydLhMbWgGiD8BpJftJmSXRfdj8VBCyw2EoAyzu87qtsLbNpKEySeCbGkEJ7u7I7ISdqrUH/0XSuCqsxoX3xJYyZCR0Q6uAM8XL94wOsAtVBM02Y2epRJ6RxnzCJMy3mc6jN7hyTt98QrNTxLn8DhDDplFnsDaf1hDYiQAWELzVlulXAIP/Uf+Gu48ha1EFLBmxxUzUEXWwEzPl9hH6oyG6whodi33Vvfu/KF57m/4EwsPOScVVN5eFgb+TmXmQ3Y3mtz1fGLmrYPflRPVHF0vkLHBTyeGfqwlr6Col5P5CM5+ojTstP8IVIcAaIyG0sli+ggJO4xkM83vzS7elGnwehpnNL+vHy9JLbb+/uchnVhweyI=
