@@ -14,7 +14,8 @@
   "scripts": {
     "prebuild": "rm -rf lib",
     "build": "tsc",
-    "test": "mocha"
+    "test": "mocha",
+    "posttest": "npm run build"
   },
   "author": {
     "name": "Motosugi Murata",
