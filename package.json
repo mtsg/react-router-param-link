@@ -10,7 +10,7 @@
     "router",
     "react"
   ],
-  "main": "./dist/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "prebuild": "rm -rf lib",
     "build": "tsc",
