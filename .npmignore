@@ -1,0 +1,19 @@
+# https://docs.npmjs.com/misc/developers#keeping-files-out-of-your-package
+
+#tests
+test
+
+#pre-compiled source
+src
+
+#node modules
+node_modules
+
+#build tools
+.travis.yml
+
+#linters
+
+#editor settings
+.editorconfig
+tsconfig.json
