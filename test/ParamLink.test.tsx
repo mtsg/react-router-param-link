@@ -1,6 +1,6 @@
 import { it, describe } from "mocha";
 import { expect } from "chai";
-import { ReconfigureSettings, DOMWindow, JSDOM } from "jsdom";
+import { ReconfigureSettings, JSDOM } from "jsdom";
 import * as React from "react";
 import { shallow, configure } from "enzyme";
 import * as Adapter from 'enzyme-adapter-react-16';
