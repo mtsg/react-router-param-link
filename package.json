@@ -1,6 +1,6 @@
 {
   "name": "react-router-param-link",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A wrapper around react-router's Link that allows paths with parameters.",
   "keywords": [
     "link-component",
