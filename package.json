@@ -57,7 +57,7 @@
     "typescript": "2.7.2"
   },
   "dependencies": {
-    "@types/url-parse": "1.1.0",
+    "@types/url-parse": "1.4.2",
     "url-parse": "1.4.4"
   }
 }
