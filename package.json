@@ -32,7 +32,7 @@
     "url": "git://github.com/mtsg/react-router-param-link.git"
   },
   "bugs": {
-    "url": "https://github.com/donavon/react-router-relative-link/issues"
+    "url": "https://github.com/mtsg/react-router-param-link/issues"
   },
   "devDependencies": {
     "@types/chai": "4.1.7",
