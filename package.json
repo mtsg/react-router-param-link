@@ -58,6 +58,6 @@
   },
   "dependencies": {
     "@types/url-parse": "1.1.0",
-    "url-parse": "1.2.0"
+    "url-parse": "1.4.4"
   }
 }
