@@ -1,6 +1,6 @@
 {
   "name": "react-router-param-link",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A wrapper around react-router's Link that allows paths with parameters.",
   "keywords": [
     "link-component",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/donavon/react-router-relative-link.git"
+    "url": "git://github.com/mtsg/react-router-param-link.git"
   },
   "bugs": {
-    "url": "https://github.com/donavon/react-router-relative-link/issues"
+    "url": "https://github.com/mtsg/react-router-param-link/issues"
   },
   "devDependencies": {
     "@types/chai": "4.1.7",
