@@ -54,7 +54,7 @@
     "react-router": "4.2.0",
     "react-router-dom": "4.2.2",
     "ts-node": "5.0.1",
-    "typescript": "2.7.2"
+    "typescript": "3.2.2"
   },
   "dependencies": {
     "@types/url-parse": "1.4.2",
