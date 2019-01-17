@@ -47,7 +47,7 @@
     "chai": "4.2.0",
     "enzyme": "3.3.0",
     "enzyme-adapter-react-16": "1.1.1",
-    "jsdom": "11.6.2",
+    "jsdom": "13.1.0",
     "mocha": "5.2.0",
     "react": "16.7.0",
     "react-dom": "16.7.0",
