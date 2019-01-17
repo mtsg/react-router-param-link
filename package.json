@@ -24,8 +24,8 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react": ">=15",
-    "react-router": "^4.2.0"
+    "react": "~16",
+    "react-router": "~4"
   },
   "repository": {
     "type": "git",
